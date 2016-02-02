@@ -5,4 +5,4 @@
 (deftest a-test
   (testing "FIXME, I fail."
     (is (= (hello) "Hello world!"))
-    (is (= (hello "test") "Hello test!!"))))
+    (is (= (hello "test") "Hello test!"))))
